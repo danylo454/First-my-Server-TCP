@@ -1,0 +1,15 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\bin\Debug\net6.0\Server_Client_Application_2_Part.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\bin\Debug\net6.0\Server_Client_Application_2_Part.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\bin\Debug\net6.0\Server_Client_Application_2_Part.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\bin\Debug\net6.0\Server_Client_Application_2_Part.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\bin\Debug\net6.0\ref\Server_Client_Application_2_Part.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\bin\Debug\net6.0\Server_Client_Application_2_Part.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\ref\Server_Client_Application_2_Part.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\web\Server_Client_Application_2_Part\Server_Client_Application_2_Part\obj\Debug\net6.0\Server_Client_Application_2_Part.genruntimeconfig.cache

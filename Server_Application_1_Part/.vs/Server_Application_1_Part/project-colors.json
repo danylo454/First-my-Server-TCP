@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0622ac43-a78f-4469-9b14-333c3183f5a4": {
+      "ProjectGuid": "0622ac43-a78f-4469-9b14-333c3183f5a4",
+      "DisplayName": "BASE_MSQL",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6f1642be-289f-4d90-b07b-c3462873ad40": {
+      "ProjectGuid": "6f1642be-289f-4d90-b07b-c3462873ad40",
+      "DisplayName": "Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
